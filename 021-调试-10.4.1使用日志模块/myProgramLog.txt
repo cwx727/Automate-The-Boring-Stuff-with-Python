@@ -1,0 +1,26 @@
+ 2019-01-31 10:17:02,392 - DEBUG - Start of program
+ 2019-01-31 10:17:02,392 - DEBUG - Start of factoral(5)
+ 2019-01-31 10:17:02,392 - DEBUG - i is1, total is 1
+ 2019-01-31 10:17:02,392 - DEBUG - i is2, total is 2
+ 2019-01-31 10:17:02,392 - DEBUG - i is3, total is 6
+ 2019-01-31 10:17:02,392 - DEBUG - i is4, total is 24
+ 2019-01-31 10:17:02,392 - DEBUG - i is5, total is 120
+ 2019-01-31 10:17:02,392 - DEBUG - End of factorial(5)
+ 2019-01-31 10:17:02,393 - DEBUG - End of program
+ 2019-01-31 10:17:50,871 - DEBUG - Start of program
+ 2019-01-31 10:17:50,875 - DEBUG - Start of factoral(5)
+ 2019-01-31 10:17:50,875 - DEBUG - i is1, total is 1
+ 2019-01-31 10:17:50,875 - DEBUG - i is2, total is 2
+ 2019-01-31 10:17:50,876 - DEBUG - i is3, total is 6
+ 2019-01-31 10:17:50,876 - DEBUG - i is4, total is 24
+ 2019-01-31 10:17:50,876 - DEBUG - i is5, total is 120
+ 2019-01-31 10:17:50,876 - DEBUG - End of factorial(5)
+ 2019-01-31 10:17:50,876 - DEBUG - End of program
+ 2019-01-31 10:18:31,045 - DEBUG - Start of program
+ 2019-01-31 10:18:31,051 - DEBUG - Start of factoral(5)
+ 2019-01-31 10:18:31,051 - DEBUG - i is1, total is 1
+ 2019-01-31 10:18:31,051 - DEBUG - i is2, total is 2
+ 2019-01-31 10:18:31,051 - DEBUG - i is3, total is 6
+ 2019-01-31 10:18:31,051 - DEBUG - i is4, total is 24
+ 2019-01-31 10:18:31,051 - DEBUG - i is5, total is 120
+ 2019-01-31 10:18:31,052 - DEBUG - End of factorial(5)
